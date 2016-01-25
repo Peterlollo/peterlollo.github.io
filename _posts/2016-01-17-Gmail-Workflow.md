@@ -3,11 +3,11 @@ layout: post
 title: Keyboard Ninja's Basic Gmail Workflow (Mac)
 ---
 
-<img src="/images/keyboard-ninja.jpg" alt="Ninja at computer keyboard" title="Keyboard Ninja">
+<img src="/images/keyboard-ninja.jpg" alt="Ninja at computer keyboard" title="Keyboard Ninja" align='center'>
 
-<h3 align=center>From your Inbox</h3>
+<h3 align= 'center'>From your Inbox</h3>
 
-Press "<Shift>" + "<?>"
+Press \<Shift\> + \<?\>
 This image should appear: 
 <img src="/images/gmail-shortcuts-screen.png" alt="gmail shortcuts helper screen" title="gmail shortcuts screen">
 If the screen says "Keyboard shortcuts are currently disabled", click "Enable." 
