@@ -2,41 +2,44 @@
 layout: post
 title: Keyboard Ninja's Basic Gmail Workflow (Mac)
 ---
-var settings = {
-  w: window.innerWidth;
-  h: window.innerHeight;
-}
+<div style="text-align:center">
 <img align="center" src="/images/keyboard-ninja.jpg" alt="Ninja at computer keyboard" title="Keyboard Ninja" >
 
-<h3 align="center">From your Inbox</h3>
+
+<h3 align="center">Getting Started</h3>
+
+From your inbox, press <strong>Shift-?</strong> and this image will appear:
+
+
+<img src="/images/gmail-shortcuts-screen.png" alt="gmail shortcuts helper screen" title="gmail shortcuts screen" width= "500px" height ="300px">
+
 <p>
-Press "<"Shift">" + \<?\>
+Scroll down through the image and check if <strong>"keyboard shortcuts are currently disabled."</strong> If so, click <strong>"Enable"</strong> so your screen looks like this: 
 </p>
-This image should appear: 
-<p>
-<img src="/images/gmail-shortcuts-screen.png" alt="gmail shortcuts helper screen" title="gmail shortcuts screen" width= "200px" height ="200px">
-</p>
-<p>
-If the screen says "Keyboard shortcuts are currently disabled", click "Enable." 
-</p>
+
 <img src="/images/gmail-shortcuts-enable.png" alt="enable shortcuts link" title="enable shortcuts link">
+<p>Hit <strong>Escape</strong> to return to your inbox.</p>
+
+<h3>Composing Messages</h3>
 
 
-<h3 align=center>Composing Messages<h/3>
-
-Press \<c\> to compose a message, \<tab\> to move through the "Recipients" and "Subject" fields, and when the message is done, hit \<Cmd\> + \<enter\> to send. 
+Press <strong>c</strong> to compose a message and <strong>tab</strong> to move through the "Recipients" and "Subject" fields. When the message is done, use <strong>Command-enter</strong> to send. 
 
 <h3 align=center>Reading Messages</h3>
 
-Press \<j\> and "<k>" to cycle up and down through your messages. 
+From your inbox, press <strong>j</strong> and <strong>k</strong> to cycle up and down respectively through your messages. 
 A small blue bar at the left side of each message will indicate which message you are currently selecting. 
-Press <enter> to open the selected message.
+Press <strong>enter</strong> to open the selected message.
 Use the arrow keys to scroll through the message.
-Press <e> to archive the message, or <r> to reply. 
+Press <strong>e</strong> to archive the message, or <strong>r</strong> to reply. 
 
-<h3 align=center>Moar</h3>
-Ready to advance beyond these basic commands?
-<shift> + <?> holds the answers. 
+<h3 align=center>Moar?</h3>
+If you're ready to advance beyond these basic commands,
+<strong>Shift-?</strong> holds your answers.
 
-Beware! You may become too fast...
+<h3>Caution!</h3>
+
+<div style="text-align:center">
 <img src="/images/keyboard-fire.jpg" alt="keyboard on fire" title="keyboard fire">
+</div>
+It's possible to become too fast.
