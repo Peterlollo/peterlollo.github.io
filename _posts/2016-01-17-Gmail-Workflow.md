@@ -10,11 +10,11 @@ var settings = {
 
 <h3 align="center">From your Inbox</h3>
 <p>
-Press \<Shift\> + \<?\>
+Press "<"Shift">" + \<?\>
 </p>
 This image should appear: 
 <p>
-<img src="/images/gmail-shortcuts-screen.png" alt="gmail shortcuts helper screen" title="gmail shortcuts screen" width=w height ="75px">
+<img src="/images/gmail-shortcuts-screen.png" alt="gmail shortcuts helper screen" title="gmail shortcuts screen" width= "200px" height ="200px">
 </p>
 <p>
 If the screen says "Keyboard shortcuts are currently disabled", click "Enable." 
